@@ -1,8 +1,9 @@
 {
   "name": "memoryCards",
   "version": "1.0.0",
-  "description": "",
+  "description": "a basic memory-card application",
   "main": "script.js",
+  "homepage": "https://asyr01.github.io/lyricsearch",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
